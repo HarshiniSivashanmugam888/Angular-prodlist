@@ -1,0 +1,10 @@
+table{
+    width: 60%;
+    border: 1px solid grey; 
+    border-radius: 16px;   
+    margin: 0 auto;
+}
+thead{
+    background-color: rgb(52,58,64);
+    color: white;
+}
